@@ -1,14 +1,14 @@
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <!--标题文字大小-->
-    <dimen name="textSize_alert_title">22sp</dimen>
-    <dimen name="textSize_actionsheet_title">14sp</dimen>
+    <dimen name="textSize_alert_title">17sp</dimen>
+    <dimen name="textSize_actionsheet_title">13sp</dimen>
     <!--标题文字高度-->
-    <dimen name="height_alert_title">60dp</dimen>
-    <dimen name="height_actionsheet_title">40dp</dimen>
+    <dimen name="height_alert_title">50dp</dimen>
+    <dimen name="height_actionsheet_title">35dp</dimen>
     <!--消息文字大小-->
-    <dimen name="textSize_alert_msg">15sp</dimen>
-    <dimen name="textSize_actionsheet_msg">14sp</dimen>
+    <dimen name="textSize_alert_msg">14sp</dimen>
+    <dimen name="textSize_actionsheet_msg">13sp</dimen>
     <!--消息距离底部间距-->
     <dimen name="marginBottom_alert_msg">25dp</dimen>
     <dimen name="marginBottom_actionsheet_msg">14dp</dimen>
